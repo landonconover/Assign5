@@ -11,6 +11,9 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="css/myStyle.css">
+    <link rel="icon" 
+      type="image/png" 
+      href="favicon.ico">
 </head>
 <body>
     <a href="https://github.com/landonconover/Assign5"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub"></a>    
